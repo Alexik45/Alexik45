@@ -1,3 +1,6 @@
-- 👋 Hi, I’m @Alexik45
-- 👀 I’m interested in Python programming
-- 🌱 I’m currently learning Python 
+═ ═ ═ ═ ═▮Alexik45▮═ ═ ═ ═ ═    
+**-Age:**16
+**-Learning:** python,Japanese 
+**-In love with:** music,anime, gaming
+**-Fav show:** One Punch Man
+═ ═ ═ ═ ═▮THE END▮═ ═ ═ ═ 
