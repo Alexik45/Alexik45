@@ -1,6 +1,4 @@
 ═ ═ ═ ═ ═▮Alexik45▮═ ═ ═ ═ ═    
-**Age:** 17
-**Learning:** python,Japanese 
-**In love with:** music,anime, gaming
-**Fav show:** One Punch Man
+**Age:** 18
+**Learning:** javascript,HTML
 ═ ═ ═ ═ ═▮THE END▮═ ═ ═ ═ 
