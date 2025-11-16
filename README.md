@@ -27,8 +27,10 @@
 ---
 
 ##  Contact
-- Discord: **alex1k45**  
-- Linkedin: **https://www.linkedin.com/in/alexandr-dimitrov-808612396/**
+- [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/768033946666663946)
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TVŮJ_LINK/)
+
 
 ---
 
