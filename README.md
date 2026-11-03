@@ -1,6 +1,6 @@
 # Hey, I'm Alexandr!
 
- - **18-year-old beginner web developer from the Czech Republic**  
+ - **19-year-old beginner web developer from the Czech Republic**  
  - Big fan of music and the singer **Ado**  
  - Currently learning **HTML, CSS, and JavaScript**  
  - Also have some experience with **C, C#, and Python**
