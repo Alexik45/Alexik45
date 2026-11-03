@@ -35,7 +35,6 @@
 ## Connect
 
 [![Discord](https://img.shields.io/badge/Discord-48484d?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/768033946666663946)
-[![GitHub](https://img.shields.io/badge/GitHub-48484d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexik45)
 
 ---
 
