@@ -1,41 +1,43 @@
-# Hey, I'm Alexandr!
+# Alexandr — alex1k45
 
- - **19-year-old beginner web developer from the Czech Republic**  
- - Big fan of music and the singer **Ado**  
- - Currently learning **HTML, CSS, and JavaScript**  
- - Also have some experience with **C, C#, and Python**
-
-
-##  My Current Path
-- Looking for a **decent job** or part-time opportunity in IT  
-- Want to **contribute to something big** or create meaningful projects  
-- Working on building a **strong portfolio** in the future  
+19-year-old developer based in the Czech Republic. I build web experiments, write Discord bots, explore low-level languages, and run my own Linux home server. Huge fan of music and the singer **Ado**.
 
 ---
 
-## Technologies I Use
-### Frontend
-- HTML  
-- CSS  
-- JavaScript  
-
-###  Other Experience
-- C  
-- C#  
-- Python  
+## Current Focus
+- Developing and maintaining custom Discord bots with 24/7 uptime
+- Administering a dedicated Ubuntu home server (Docker, Tailscale, private cloud services)
+- Practicing clean web development with semantic HTML, CSS, and modern JavaScript
+- Writing CLI utilities and algorithmic scripts in C, C#, and Python
 
 ---
 
-##  Contact
-- [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/768033946666663946)
+## Tech & Tools
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TVŮJ_LINK/)
+### Languages
+- Python
+- C
+- C#
+- JavaScript (ESNext)
+- HTML5 / CSS3
+- SQL (Basics)
 
+### Systems & Hosting
+- Linux (Ubuntu Server / Debian)
+- Docker & Containerization
+- Bash Scripting & Automation
+- Discord API (discord.py)
+- Tailscale / Network Tunneling
+- Git & GitHub
 
 ---
 
-##  A Little Note
-I'm learning something new every day.  
-Even though I'm just starting out,  
-**I believe I'll create something I can be proud of.**
+## Connect
 
+[![Discord](https://img.shields.io/badge/Discord-48484d?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/768033946666663946)
+[![GitHub](https://img.shields.io/badge/GitHub-48484d?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexik45)
+
+---
+
+## Note
+Always tinkering, running services, and learning by breaking things in the terminal until they run properly.
